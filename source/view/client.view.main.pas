@@ -1,4 +1,4 @@
-unit MasterDetail;
+unit client.view.main;
 
 interface
 
